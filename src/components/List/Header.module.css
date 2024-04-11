@@ -1,0 +1,23 @@
+.header {
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+
+    margin-bottom: 1rem;
+}
+
+.header aside {
+    display: flex;
+    gap: 1rem;
+
+    font-size: 0.875rem;
+    font-weight: bold;
+}
+
+.contentCreatedTasks p{
+    color: var(--blue);
+}
+
+.contentCompletedTasks p{
+    color: var(--purple);
+}

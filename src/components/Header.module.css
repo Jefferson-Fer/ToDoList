@@ -1,0 +1,15 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--gray-700);
+    height: 12.5rem;
+}
+
+.h1To {
+    color: var(--blue);
+}
+
+.h1Do {
+    color: var(--purple-dark);
+}
